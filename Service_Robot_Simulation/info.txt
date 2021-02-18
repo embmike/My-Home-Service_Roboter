@@ -1,8 +1,12 @@
-cd /home/robond/ServiceRobot/model
+########################################
+# Application paths and informations
+########################################
+
+/home/robond/My-Home-Service-Robot/Service_Robot_Simulation/model
 export GAZEBO_MODEL_PATH=$PWD
 
-cd /home/robond/ServiceRobot/build
+/home/robond/My-Home-Service-Robot/Service_Robot_Simulation/build
 export GAZEBO_PLUGIN_PATH=$PWD
 
-cd /home/robond/ServiceRobot/world
+/home/robond/My-Home-Service-Robot/Service_Robot_Simulation/world
 gazebo RobotOffice
