@@ -1,0 +1,8 @@
+cd /home/robond/ServiceRobot/model
+export GAZEBO_MODEL_PATH=$PWD
+
+cd /home/robond/ServiceRobot/build
+export GAZEBO_PLUGIN_PATH=$PWD
+
+cd /home/robond/ServiceRobot/world
+gazebo RobotOffice
