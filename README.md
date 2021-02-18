@@ -1,8 +1,8 @@
 # My home service robot
 TODO: Write a brief description. 
 
-## The robot and its environment are simulated with gazebo.
-![Simulated robot](/images/robot_and_environment.PNG "Simulated robot")
+### The robot and its environment are simulated with gazebo.
+<img src='images/robot_and_environment.PNG' width=60% height=60% />
 
 
 ## Important files and directories
