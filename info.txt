@@ -1,0 +1,13 @@
+########################################
+# Application paths and informations
+########################################
+
+# install xterm
+$ sudo get-apt install xterm
+
+# Make launch script executable
+$ cd <project home>/RobotND-Build-My-World
+$ chmod +x cd robot_office.sh
+
+# execute launch script
+$ ./robot_office.sh
