@@ -6,6 +6,7 @@ This project is part of my robotics nano degree of[ Udacity](https://www.udacity
 ### The robot and its environment are simulated with gazebo.
 <img src='images/robot_and_environment.PNG' width=60% height=60% />
 
+<br>
 
 ## Important files and directories
 - **Service_Robot_Simulation** : to simulate the robot in a environment using [Gazebo](http://gazebosim.org/).
@@ -16,10 +17,10 @@ This project is part of my robotics nano degree of[ Udacity](https://www.udacity
   - model/RobotBuilding/* : the building model
   - model/ServiceRobot/* : the robot model
 
-
 ### Project tree
 <img src='images/project_tree.PNG' width=60% height=60% />
 
+<br>
 
 ## Installation and usage
 
@@ -44,7 +45,7 @@ $ cd <your workspace folder>/RobotND-Build-My-World
 $ chmod +x cd robot_office.sh
 $ ./robot_office.sh
 ```
-
+<br>
 
 ## Licence
 This project is licensed under the terms of the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
