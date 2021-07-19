@@ -40,7 +40,7 @@ $ make
 
 Start the model with gazebo
 ```sh
-$ cd <your workspace folder>/RobotND-Build-My-World/
+$ cd <your workspace folder>/RobotND-Build-My-World
 $ chmod +x cd robot_office.sh
 $ ./robot_office.sh
 ```
