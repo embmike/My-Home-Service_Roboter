@@ -31,7 +31,9 @@ $ git clone https://github.com/embmike/RobotND-Build-My-World.git
 
 Bild message library
 ```sh
-$ cd <your workspace folder>/RobotND-Build-My-World/Service_Robot_Simulation/build
+$ cd <your workspace folder>/RobotND-Build-My-World/Service_Robot_Simulation
+$ mkdir -p build
+$ cd build
 $ cmake ../
 $ make
 ```
