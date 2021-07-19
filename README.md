@@ -1,5 +1,5 @@
 # Robotics: Build My World
-Launch a robot world model with the tool gazebo. This model was also built with gazebo.
+Launch a robot world model with the tool [gazebo](http://gazebosim.org/). This model was also built with gazebo.
 
 This project is part of my robotics nano degree of[ Udacity](https://www.udacity.com/course/robotics-software-engineer--nd209).
 
@@ -18,7 +18,7 @@ This project is part of my robotics nano degree of[ Udacity](https://www.udacity
 
 
 ### Project tree
-<img src='images/project_tree.PNG' width=100% height=100% />
+<img src='images/project_tree.PNG' width=50% height=50% />
 
 
 ## Installation and usage
@@ -46,3 +46,4 @@ $ ./robot_office.sh
 
 ## Licence
 This project is licensed under the terms of the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
